@@ -2,30 +2,30 @@
 
 **Формат:** 16 команд, Swiss, усі Bo3. Топ-3 виходять напряму (1× 4-0, 2× 4-1).
 Місця 4-13 грають Elimination Round: 5 проходять, 5 вилітають. Далі 2× 1-4 та 1× 0-4.
-**Джерела:** 8 ІІ-моделей (незалежний аналіз) + 2 про-гравці (Ghostik, Topson).
+**Джерела:** 8 ІІ-моделей (незалежний аналіз) + 3 про-гравці (Ghostik, Topson, Arteezy). Правило: одна сутність — один голос.
 
 Позначення: `4-0` / `4-1` = прямий вихід · `ADV` = проходить Elimination Round · `LOSE` = програє Elimination Round · `1-4` / `0-4` = виліт.
 
 ## Порівняльна таблиця
 
-| Команда | Opus 4.8 | Terra | Grok | Sonnet 5 | Opus 5 | Composer | Sol | Fable 5 | Ghostik | Topson | КОНСЕНСУС (10) |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Team Vision | ADV | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-1 | **4-0** (8/10) |
-| Team Yandex | ADV | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-0 | **4-1** (8/10) |
-| BoomBoys | ADV | 4-1 | 4-1 | 4-1 | 4-1 | ADV | 4-1 | 4-1 | 4-1 | 4-1 | **4-1** (8/10) |
-| Team Falcons | 4-0 | ADV | ADV | ADV | ADV | 4-1 | ADV | ADV | LOSE | ADV | **ADV** (7/10) |
-| Team Spirit | ADV | ADV | ADV | ADV | ADV | ADV | ADV | ADV | LOSE | ADV | **ADV** (9/10) |
-| Aurora Gaming | 4-1 | ADV | ADV | ADV | ADV | ADV | ADV | ADV | LOSE | LOSE | **ADV** (7/10) |
-| Team Liquid | 4-1 | LOSE | ADV | ADV | ADV | LOSE | ADV | ADV | ADV | ADV | **ADV** (7/10) |
-| Vici Gaming | LOSE | ADV | LOSE | LOSE | ADV | ADV | ADV | ADV | ADV | ADV | **ADV** (7/10) |
-| Iron Wing (1win) | 0-4 | ADV | ADV | LOSE | LOSE | LOSE | LOSE | LOSE | ADV | LOSE | **LOSE** (6/10) |
-| LGD Gaming | 1-4 | LOSE | LOSE | ADV | LOSE | ADV | LOSE | LOSE | ADV | LOSE | **LOSE** (6/10) |
-| Xtreme Gaming | ADV | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | ADV | **LOSE** (8/10) |
-| Nigma Galaxy | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | **LOSE** (10/10) |
-| OG | LOSE | 1-4 | LOSE | 1-4 | 1-4 | LOSE | LOSE | LOSE | ADV | LOSE | **LOSE** (6/10) |
-| Team Resilience | LOSE | LOSE | 1-4 | LOSE | LOSE | 0-4 | 1-4 | 1-4 | 1-4 | 1-4 | **1-4** (5/10) |
-| GamerLegion | LOSE | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | **1-4** (9/10) |
-| HULIGANI | 1-4 | 0-4 | 0-4 | 0-4 | 0-4 | 1-4 | 0-4 | 0-4 | 0-4 | 0-4 | **0-4** (8/10) |
+| Команда | Opus 4.8 | Terra | Grok | Sonnet 5 | Opus 5 | Composer | Sol | Fable 5 | Ghostik | Topson | Arteezy | КОНСЕНСУС (11) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Team Vision | ADV | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-0 | 4-1 | 4-0 | **4-0** (9/11) |
+| Team Yandex | ADV | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-1 | 4-0 | 4-1 | **4-1** (9/11) |
+| BoomBoys | ADV | 4-1 | 4-1 | 4-1 | 4-1 | ADV | 4-1 | 4-1 | 4-1 | 4-1 | ADV | **4-1** (8/11) |
+| Team Falcons | 4-0 | ADV | ADV | ADV | ADV | 4-1 | ADV | ADV | LOSE | ADV | ADV | **ADV** (8/11) |
+| Team Spirit | ADV | ADV | ADV | ADV | ADV | ADV | ADV | ADV | LOSE | ADV | ADV | **ADV** (10/11) |
+| Aurora Gaming | 4-1 | ADV | ADV | ADV | ADV | ADV | ADV | ADV | LOSE | LOSE | 4-1 | **ADV** (7/11) |
+| Team Liquid | 4-1 | LOSE | ADV | ADV | ADV | LOSE | ADV | ADV | ADV | ADV | ADV | **ADV** (8/11) |
+| Vici Gaming | LOSE | ADV | LOSE | LOSE | ADV | ADV | ADV | ADV | ADV | ADV | LOSE | **ADV** (7/11) |
+| Iron Wing (1win) | 0-4 | ADV | ADV | LOSE | LOSE | LOSE | LOSE | LOSE | ADV | LOSE | ADV | **LOSE** (6/11) |
+| LGD Gaming | 1-4 | LOSE | LOSE | ADV | LOSE | ADV | LOSE | LOSE | ADV | LOSE | 1-4 | **LOSE** (6/11) |
+| Xtreme Gaming | ADV | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | ADV | LOSE | **LOSE** (9/11) |
+| Nigma Galaxy | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | LOSE | 1-4 | **LOSE** (10/11) |
+| OG | LOSE | 1-4 | LOSE | 1-4 | 1-4 | LOSE | LOSE | LOSE | ADV | LOSE | LOSE | **LOSE** (7/11) |
+| Team Resilience | LOSE | LOSE | 1-4 | LOSE | LOSE | 0-4 | 1-4 | 1-4 | 1-4 | 1-4 | 0-4 | **1-4** (5/11) |
+| GamerLegion | LOSE | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | 1-4 | LOSE | **1-4** (9/11) |
+| HULIGANI | 1-4 | 0-4 | 0-4 | 0-4 | 0-4 | 1-4 | 0-4 | 0-4 | 0-4 | 0-4 | LOSE | **0-4** (8/11) |
 
 ## Фінальний консенсус-бракет
 
@@ -59,23 +59,29 @@
 
 ## Сила згоди
 
-- **Залізобетон (9-10/10):** Nigma → lose (10/10), Spirit → advance (9/10), GamerLegion → 1-4 (9/10).
-- **Дуже міцно (8/10):** Vision 4-0, Yandex 4-1, BoomBoys 4-1, Xtreme → lose, HULIGANI 0-4.
-- **Міцно (7/10):** Falcons, Aurora, Liquid, Vici → advance.
-- **Хитко (6/10):** Iron Wing, LGD, OG → lose.
-- **Найслабше (5/10):** Team Resilience 1-4.
+- **Залізобетон (9-10/11):** Spirit → advance (10/11), Nigma → lose (10/11), Vision 4-0 (9/11), Yandex 4-1 (9/11), Xtreme → lose (9/11), GamerLegion → 1-4 (9/11).
+- **Дуже міцно (8/11):** BoomBoys 4-1, Falcons → advance, Liquid → advance, HULIGANI 0-4.
+- **Міцно (7/11):** Aurora, Vici → advance; OG → lose.
+- **Хитко (6/11):** Iron Wing, LGD → lose.
+- **Найслабше (5/11):** Team Resilience 1-4.
 
 ## Safe / High-risk / Найменш впевнене
 
-**Safe picks:** Team Vision 4-0 · Team Yandex + BoomBoys 4-1 · Team Spirit + Aurora advance · Nigma + Xtreme lose · GamerLegion 1-4 · HULIGANI 0-4.
+**Safe picks:** Team Vision 4-0 · Team Yandex + BoomBoys 4-1 · Team Spirit advance · Nigma + Xtreme lose · GamerLegion 1-4 · HULIGANI 0-4.
 
 **High risk / high reward:**
-- Другий 4-1 слот: BoomBoys vs Falcons.
+- Другий 4-1 слот: BoomBoys vs Falcons vs Aurora.
 - Vici Gaming advance (усе на EWC 4-те місце).
 - Iron Wing (ex-Tundra) — чемпіонська стеля, але спад форми.
 - Team Liquid advance — по суті монетка.
 
 **Найменш впевнене:** зона advance/lose у середняку — Team Resilience, Iron Wing, LGD, OG, Liquid, Vici.
+
+## Розбіжності про-гравців (цінний сигнал)
+
+- **Aurora Gaming — суперечка:** Ghostik + Topson садять у LOSE, але Arteezy ставить аж у 4-1. Про-думки розділилися → хедж на Aurora став слабшим.
+- **Arteezy — найконтрарніший:** високо на Aurora та Iron Wing (advance), а HULIGANI виводить у Lose elim, натомість Resilience у 0-4.
+- **Спільне в про:** усі троє тримають Vision у топі й дно (Resilience/HULIGANI) низько, лише порядок різний.
 
 ## Примітки
 
@@ -83,5 +89,4 @@
 - **Team Vision = PARIVISION** — світ #1, чемпіон EWC 2026 + DreamLeague S29 (тренер Puppey).
 - **BoomBoys = BetBoom** · **Team Yandex** — світ #2, чемпіон BLAST Slam VII.
 - Патч TI15: **7.41e** (повільна мета).
-- **Спільний сигнал Ghostik + Topson проти ІІ:** обидва садять **Aurora Gaming у LOSE** — головний кандидат на хедж (Aurora → lose, підняти Iron Wing або Xtreme в advance).
-- Додавання Ghostik + Topson у розрахунок **не змінило жодного слоту** консенсусу → бракет стійкий.
+- Додавання Ghostik + Topson + Arteezy у розрахунок **не змінило жодного слоту** консенсусу → бракет стійкий по 11 джерелах.
