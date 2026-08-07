@@ -3,3 +3,9 @@ __pycache__/
 *.pyo
 .DS_Store
 sim_output.txt
+
+# fantasy: raw site/API dumps and generated outputs (kept local)
+precomputed_stats.json
+proplayers.json
+fantasy/players_merged.json
+fantasy/recommendation.json

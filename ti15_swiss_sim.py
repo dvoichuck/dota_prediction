@@ -141,10 +141,15 @@ def simulate(rng):
     return rec, elim_win, elim_lose
 
 
-def main(N=300000, seed=12345):
+CATS = ["4-0", "4-1", "elim_win", "elim_lose", "1-4", "0-4"]
+
+
+def compute_probs(N=300000, seed=12345):
+    """Run the Monte-Carlo and return (P, playoffs).
+    P[team][cat] = probability of that final Swiss outcome.
+    playoffs[team] = probability of reaching the main event (fraction)."""
     rng = random.Random(seed)
-    cats = ["4-0", "4-1", "elim_win", "elim_lose", "1-4", "0-4"]
-    cnt = {t: {c: 0 for c in cats} for t in TEAMS}
+    cnt = {t: {c: 0 for c in CATS} for t in TEAMS}
     playoffs = {t: 0 for t in TEAMS}
     for _ in range(N):
         rec, ew, el = simulate(rng)
@@ -163,7 +168,14 @@ def main(N=300000, seed=12345):
         for t in el:
             cnt[t]["elim_lose"] += 1
 
-    P = {t: {c: cnt[t][c] / N for c in cats} for t in TEAMS}
+    P = {t: {c: cnt[t][c] / N for c in CATS} for t in TEAMS}
+    playoffs = {t: playoffs[t] / N for t in TEAMS}
+    return P, playoffs
+
+
+def main(N=300000, seed=12345):
+    cats = CATS
+    P, playoffs = compute_probs(N, seed)
     print(f"N = {N} simulations, Elo divisor {DIVISOR:.0f}\n")
     hdr = f"{'team':<17}{'rating':>7}{'4-0':>8}{'4-1':>8}{'ElimW':>8}{'ElimL':>8}{'1-4':>8}{'0-4':>8}{'PLAYOFF':>9}"
     print(hdr); print("-" * len(hdr))
@@ -172,7 +184,7 @@ def main(N=300000, seed=12345):
         print(f"{t:<17}{RATING[t]:>7}"
               f"{p['4-0']*100:>7.1f}%{p['4-1']*100:>7.1f}%{p['elim_win']*100:>7.1f}%"
               f"{p['elim_lose']*100:>7.1f}%{p['1-4']*100:>7.1f}%{p['0-4']*100:>7.1f}%"
-              f"{playoffs[t]/N*100:>8.1f}%")
+              f"{playoffs[t]*100:>8.1f}%")
 
     # ---- EV-optimal pick'em assignment (slot counts fixed by format) ----
     slots = ["4-0"] + ["4-1"] * 2 + ["elim_win"] * 5 + ["elim_lose"] * 5 + ["1-4"] * 2 + ["0-4"]
