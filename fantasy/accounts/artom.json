@@ -1,0 +1,33 @@
+{
+  "name": "Артьом",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Aurora Gaming",
+      "players": ["Nightfall", "Ws`"],
+      "emblems": [
+        {"stat": "gpm", "pct": 270},
+        {"stat": "roshan", "pct": 230},
+        {"stat": "deaths", "pct": 230}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "creeps", "pct": 250},
+        {"stat": "runes", "pct": 280},
+        {"stat": "tormentor", "pct": 160}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "smokes", "pct": 180},
+        {"stat": "teamfight", "pct": 220},
+        {"stat": "lotuses", "pct": 200}
+      ]
+    }
+  }
+}

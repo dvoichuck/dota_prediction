@@ -1,0 +1,33 @@
+{
+  "name": "BlyaDima",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Team Vision",
+      "players": ["Satanic", "Noticed"],
+      "emblems": [
+        {"stat": "creeps", "pct": 180},
+        {"stat": "roshan", "pct": 270},
+        {"stat": "kills", "pct": 180}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "creeps", "pct": 220},
+        {"stat": "camps", "pct": 270},
+        {"stat": "teamfight", "pct": 240}
+      ]
+    },
+    "support": {
+      "team": "Team Falcons",
+      "players": ["Cr1t-", "Sneyking"],
+      "emblems": [
+        {"stat": "camps", "pct": 200},
+        {"stat": "teamfight", "pct": 200},
+        {"stat": "runes", "pct": 200}
+      ]
+    }
+  }
+}

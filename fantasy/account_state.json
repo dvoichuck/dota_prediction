@@ -1,0 +1,33 @@
+{
+  "name": "Нікіта",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Team Falcons",
+      "players": ["skiter", "AMMAR_THE_F"],
+      "emblems": [
+        {"stat": "deaths", "pct": 250},
+        {"stat": "teamfight", "pct": 230},
+        {"stat": "gpm", "pct": 300}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "gpm", "pct": 220},
+        {"stat": "runes", "pct": 290},
+        {"stat": "teamfight", "pct": 270}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "camps", "pct": 190},
+        {"stat": "tormentor", "pct": 220},
+        {"stat": "smokes", "pct": 210}
+      ]
+    }
+  }
+}

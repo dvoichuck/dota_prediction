@@ -9,3 +9,5 @@ precomputed_stats.json
 proplayers.json
 fantasy/players_merged.json
 fantasy/recommendation.json
+fantasy/account_pick.md
+fantasy/pick_*.md

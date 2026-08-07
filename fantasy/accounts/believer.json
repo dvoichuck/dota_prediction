@@ -1,0 +1,33 @@
+{
+  "name": "Believer in God",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Iron Wing (1win)",
+      "players": ["Pure", "33"],
+      "emblems": [
+        {"stat": "creeps", "pct": 300},
+        {"stat": "teamfight", "pct": 260},
+        {"stat": "madstone", "pct": 210}
+      ]
+    },
+    "mid": {
+      "team": "Team Falcons",
+      "players": ["Malr1ne"],
+      "emblems": [
+        {"stat": "kills", "pct": 290},
+        {"stat": "smokes", "pct": 200},
+        {"stat": "teamfight", "pct": 270}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "watchers", "pct": 230},
+        {"stat": "teamfight", "pct": 180},
+        {"stat": "lotuses", "pct": 200}
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Pasha",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Team Yandex",
+      "players": ["DM", "医者watson`"],
+      "emblems": [
+        {"stat": "creeps", "pct": 290},
+        {"stat": "roshan", "pct": 280},
+        {"stat": "gpm", "pct": 290}
+      ]
+    },
+    "mid": {
+      "team": "Iron Wing (1win)",
+      "players": ["bzm"],
+      "emblems": [
+        {"stat": "deaths", "pct": 300},
+        {"stat": "runes", "pct": 130},
+        {"stat": "teamfight", "pct": 150}
+      ]
+    },
+    "support": {
+      "team": "Nigma Galaxy",
+      "players": ["GH", "OmaR"],
+      "emblems": [
+        {"stat": "smokes", "pct": 250},
+        {"stat": "teamfight", "pct": 240},
+        {"stat": "watchers", "pct": 230}
+      ]
+    }
+  }
+}

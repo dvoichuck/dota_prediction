@@ -1,0 +1,33 @@
+{
+  "name": "Prist",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "LGD Gaming",
+      "players": ["Yuma", "Wisper"],
+      "emblems": [
+        {"stat": "kills", "pct": 320},
+        {"stat": "teamfight", "pct": 230},
+        {"stat": "creeps", "pct": 320}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "deaths", "pct": 240},
+        {"stat": "runes", "pct": 290},
+        {"stat": "tormentor", "pct": 270}
+      ]
+    },
+    "support": {
+      "team": "Xtreme Gaming",
+      "players": ["xNova", "fy"],
+      "emblems": [
+        {"stat": "camps", "pct": 180},
+        {"stat": "teamfight", "pct": 140},
+        {"stat": "wards", "pct": 270}
+      ]
+    }
+  }
+}

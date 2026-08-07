@@ -1,0 +1,33 @@
+{
+  "name": "Danya",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Iron Wing (1win)",
+      "players": ["Pure", "33"],
+      "emblems": [
+        {"stat": "creeps", "pct": 130},
+        {"stat": "teamfight", "pct": 280},
+        {"stat": "towers", "pct": 250}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "creeps", "pct": 250},
+        {"stat": "runes", "pct": 290},
+        {"stat": "teamfight", "pct": 200}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "watchers", "pct": 300},
+        {"stat": "teamfight", "pct": 240},
+        {"stat": "lotuses", "pct": 230}
+      ]
+    }
+  }
+}

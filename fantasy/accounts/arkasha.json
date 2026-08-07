@@ -1,0 +1,33 @@
+{
+  "name": "Аркаша",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Team Vision",
+      "players": ["Satanic", "Noticed"],
+      "emblems": [
+        {"stat": "gpm", "pct": 240},
+        {"stat": "teamfight", "pct": 300},
+        {"stat": "creeps", "pct": 240}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "creeps", "pct": 290},
+        {"stat": "camps", "pct": 160},
+        {"stat": "teamfight", "pct": 290}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "watchers", "pct": 160},
+        {"stat": "teamfight", "pct": 300},
+        {"stat": "camps", "pct": 220}
+      ]
+    }
+  }
+}

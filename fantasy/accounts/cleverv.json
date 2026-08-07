@@ -1,0 +1,33 @@
+{
+  "name": "cleverv",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Iron Wing (1win)",
+      "players": ["Pure", "33"],
+      "emblems": [
+        {"stat": "gpm", "pct": 220},
+        {"stat": "teamfight", "pct": 300},
+        {"stat": "creeps", "pct": 250}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "deaths", "pct": 250},
+        {"stat": "runes", "pct": 190},
+        {"stat": "teamfight", "pct": 180}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "lotuses", "pct": 190},
+        {"stat": "stuns", "pct": 310},
+        {"stat": "camps", "pct": 260}
+      ]
+    }
+  }
+}

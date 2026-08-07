@@ -1,0 +1,33 @@
+{
+  "name": "Kinder",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "LGD Gaming",
+      "players": ["Yuma", "Wisper"],
+      "emblems": [
+        {"stat": "creeps", "pct": 160},
+        {"stat": "roshan", "pct": 260},
+        {"stat": "towers", "pct": 250}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "deaths", "pct": 280},
+        {"stat": "camps", "pct": 160},
+        {"stat": "tormentor", "pct": 250}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "runes", "pct": 180},
+        {"stat": "teamfight", "pct": 260},
+        {"stat": "watchers", "pct": 300}
+      ]
+    }
+  }
+}

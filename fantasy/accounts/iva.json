@@ -1,0 +1,33 @@
+{
+  "name": "іва",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Team Spirit",
+      "players": ["Yatoro", "Collapse"],
+      "emblems": [
+        {"stat": "kills", "pct": 160},
+        {"stat": "teamfight", "pct": 150},
+        {"stat": "towers", "pct": 310}
+      ]
+    },
+    "mid": {
+      "team": "Team Falcons",
+      "players": ["Malr1ne"],
+      "emblems": [
+        {"stat": "towers", "pct": 220},
+        {"stat": "camps", "pct": 130},
+        {"stat": "fb", "pct": 300}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "lotuses", "pct": 130},
+        {"stat": "fb", "pct": 140},
+        {"stat": "camps", "pct": 130}
+      ]
+    }
+  }
+}
