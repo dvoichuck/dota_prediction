@@ -1,0 +1,33 @@
+{
+  "name": "Рома",
+  "phase": "group",
+  "slots": {
+    "core": {
+      "team": "Iron Wing (1win)",
+      "players": ["Pure", "33"],
+      "emblems": [
+        {"stat": "creeps", "pct": 300},
+        {"stat": "teamfight", "pct": 210},
+        {"stat": "deaths", "pct": 160}
+      ]
+    },
+    "mid": {
+      "team": "Team Liquid",
+      "players": ["Nisha"],
+      "emblems": [
+        {"stat": "gpm", "pct": 240},
+        {"stat": "runes", "pct": 290},
+        {"stat": "teamfight", "pct": 270}
+      ]
+    },
+    "support": {
+      "team": "LGD Gaming",
+      "players": ["Thiolicor", "KingJungles"],
+      "emblems": [
+        {"stat": "camps", "pct": 240},
+        {"stat": "teamfight", "pct": 170},
+        {"stat": "wards", "pct": 300}
+      ]
+    }
+  }
+}

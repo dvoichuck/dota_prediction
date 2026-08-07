@@ -4,9 +4,11 @@ AVG / MAX = сума Core+Mid+Support під емблеми акаунта (ст
 
 | nickname | AVG | MAX |
 |---|---:|---:|
+| Рома | 29042 | 59835 |
 | Аркаша | 27908 | 59319 |
 | Нікіта | 26846 | 52589 |
 | Danya | 26806 | 63580 |
+| noname | 26771 | 56958 |
 | Pasha | 26408 | 60811 |
 | Prist | 26252 | 63449 |
 | cleverv | 25455 | 54109 |
@@ -20,9 +22,11 @@ AVG / MAX = сума Core+Mid+Support під емблеми акаунта (ст
 
 ## Рекомендовані гравці
 
+- **Рома:** Core Yuma/Wisper (LGD Gaming) · Mid Nisha (Team Liquid) · Support Thiolicor/KingJungles (LGD Gaming)
 - **Аркаша:** Core Yuma/Wisper (LGD Gaming) · Mid bzm (Iron Wing (1win)) · Support Thiolicor/KingJungles (LGD Gaming)
 - **Нікіта:** Core Nightfall/Ws` (Aurora Gaming) · Mid Nisha (Team Liquid) · Support Thiolicor/KingJungles (LGD Gaming)
 - **Danya:** Core Ame/Xxs (Xtreme Gaming) · Mid Nisha (Team Liquid) · Support Thiolicor/KingJungles (LGD Gaming)
+- **noname:** Core Yuma/Wisper (LGD Gaming) · Mid Mikoto (Aurora Gaming) · Support Thiolicor/KingJungles (LGD Gaming)
 - **Pasha:** Core Yuma/Wisper (LGD Gaming) · Mid Mikoto (Aurora Gaming) · Support Thiolicor/KingJungles (LGD Gaming)
 - **Prist:** Core Yuma/Wisper (LGD Gaming) · Mid Nisha (Team Liquid) · Support Thiolicor/KingJungles (LGD Gaming)
 - **cleverv:** Core Yuma/Wisper (LGD Gaming) · Mid Mikoto (Aurora Gaming) · Support Thiolicor/KingJungles (LGD Gaming)
